@@ -1,0 +1,1 @@
+This project is a simple webpage that displays statistics for various cricket players. It is built using basic HTML and CSS, and serves as an example of creating a static webpage to showcase player stats. Please note that the data presented for the players is placeholder data and is not accurate.
